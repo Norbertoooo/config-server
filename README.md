@@ -1,13 +1,13 @@
 # Config server
 
-## Config server is a Spring Boot application that provides centralized configuration management for distributed systems.
+## O Config server é uma aplicação Spring Boot que fornece gerenciamento centralizado de configurações para sistemas distribuídos.
 
 ## Features
-- Centralized configuration management
-- Supports multiple configuration sources (Git, file system, etc.)
-- Supports dynamic configuration updates
-- Integration with Spring Boot Actuator for monitoring and management
-- Supports Prometheus for metrics collection
+- Gerenciamento centralizado de configurações  
+- Suporte a múltiplas fontes de configuração (Git, sistema de arquivos, etc.)  
+- Suporte a atualizações dinâmicas de configuração  
+- Integração com o Spring Boot Actuator para monitoramento e gerenciamento  
+- Suporte ao Prometheus para coleta de métricas
 
 ## Getting Started
 
