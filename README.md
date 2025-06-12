@@ -12,3 +12,8 @@
 ## Getting Started
 
 http://localhost:8888/spring-dynamic-consumer/dev
+
+## Branches
+
+- `main`: Utiliza do modo git com os arquivos de configurações em um repositório remoto.
+- `config-local`: utiliza do modo nativo com os arquivos de configuração localizados no diretório `src/main/resources/config`  
