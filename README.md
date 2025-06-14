@@ -10,10 +10,12 @@
 - Suporte ao Prometheus para coleta de métricas
 
 ## Getting Started
-
+Url local:
+```bash
 http://localhost:8888/spring-dynamic-consumer/dev
+```
 
 ## Branches
 
-- `main`: Utiliza do modo git com os arquivos de configurações em um repositório remoto.
+- `main`: Utiliza do modo git com os arquivos de configurações em um repositório remoto: https://github.com/Norbertoooo/config-server-properties.
 - `config-local`: utiliza do modo nativo com os arquivos de configuração localizados no diretório `src/main/resources/config`  
